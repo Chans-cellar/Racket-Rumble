@@ -6,8 +6,12 @@ Racket Rumble is an exciting and immersive 3D ping pong game created using Unity
 <h3 align="left"> Key Features </h3>
 
 - Realistic physics simulation for an authentic ping pong experience.
-- Multiple game modes: Single-player, Multiplayer, and Tournament.
+- Multiple game modes: Single-player, Multiplayer.
 - Intuitive controls for precise racket movements and shots.
 - Variety of skill levels to challenge players of all abilities.
 - Stunning 3D graphics and immersive sound effects.
 - Customizable game settings and options.
+
+<h3 align="left"> Controls </h3>
+- Move Racket: [W], [A] and Arrow keys.
+- Start Game: Spacebar.
