@@ -13,5 +13,6 @@ Racket Rumble is an exciting and immersive 3D ping pong game created using Unity
 - Customizable game settings and options.
 
 <h3 align="left"> Controls </h3>
+
 - Move Racket: [W], [A] and Arrow keys.
 - Start Game: Spacebar.
